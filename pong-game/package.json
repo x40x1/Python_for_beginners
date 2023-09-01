@@ -1,0 +1,16 @@
+{
+  "name": "pong-game",
+  "version": "1.0.0",
+  "description": "A simple Pong game",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {},
+  "author": "Your Name",
+  "license": "MIT"
+}
