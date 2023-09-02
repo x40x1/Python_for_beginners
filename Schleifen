@@ -1,0 +1,29 @@
+"""Schleifen
+Wie man Schleifen in Python schreibt, einschließlich for- und while-Schleifen.
+"""
+
+# Schleifen
+
+# Schleifen ermöglichen es uns, Code mehrmals auszuführen
+# Es gibt zwei Arten von Schleifen in Python: for-Schleifen und while-Schleifen
+
+# Eine for-Schleife wird verwendet, um über eine Sequenz von Elementen zu iterieren
+# Die grundlegende Syntax für eine for-Schleife ist "for", gefolgt von einer Variable, dem Schlüsselwort "in", der Sequenz und einem Doppelpunkt
+# Der Code, der in jeder Iteration ausgeführt werden soll, wird eingerückt
+
+# Hier ist ein Beispiel für eine for-Schleife
+fruits = ["Apfel", "Banane", "Kirsche"]
+for fruit in fruits:
+    print(fruit)
+
+# Eine while-Schleife wird verwendet, um Code auszuführen, solange eine Bedingung wahr ist
+# Die grundlegende Syntax für eine while-Schleife ist "while", gefolgt von der Bedingung und einem Doppelpunkt
+# Der Code, der in jeder Iteration ausgeführt werden soll, wird eingerückt
+
+# Hier ist ein Beispiel für eine while-Schleife
+i = 1
+while i < 6:
+    print(i)
+    i += 1
+
+# Achte darauf, dass die Bedingung irgendwann falsch wird, sonst wird die Schleife unendlich ausgeführt
