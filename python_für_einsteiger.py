@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1CSB4F8MFGJUd-x1x4Zy7eCN4hYBggSxM
 
 # Einführung
-Eine kurze Einführung in Python von Alexander Schütz
+Eine kurze Einführung in Python
 
 Python ist eine Programmiersprache, die von Guido van Rossum in den späten 1980er Jahren entwickelt wurde. Python ist einfach zu lernen und zu lesen, was es zu einer beliebten Sprache für Anfänger und Experten gleichermaßen macht. Python wird in vielen Bereichen eingesetzt, einschließlich Webentwicklung, Datenanalyse, künstlicher Intelligenz und wissenschaftlicher Berechnungen.
 
@@ -413,5 +413,5 @@ else:
 
 
 """**Vielen Dank fürs lesen
-Alexander Schütz**
+**
 """
