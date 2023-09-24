@@ -6,5 +6,5 @@ Das ist ein Kurs zum Thema Python für Beginner.
 
 Hauptdateien:
 - [Jupyter Notebook](https://github.com/x40x1/Python_for_beginners/blob/main/Python%20f%C3%BCr%20Einsteiger.ipynb)
-- [Notebook als PDF](https://github.com/x40x1/Python_for_beginners/blob/main/Python%20f%C3%BCr%20Einsteiger.pdf)
+- [Notebook als PDF](https://github.com/x40x1/Python_for_beginners/blob/main/Python%20f%C3%BCr%20Einsteiger(2).pdf)
 - [Notebook als py](https://github.com/x40x1/Python_for_beginners/blob/main/python_f%C3%BCr_einsteiger.py)
