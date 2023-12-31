@@ -1,0 +1,1 @@
+print((lambda a, b, op: a + b if op == "+" else a - b if op == "-" else a * b if op == "*" else a / b if op == "/" else "Invalid operation")(int(input("Enter first number: ")), int(input("Enter second number: ")), input("Enter operation: ")))
